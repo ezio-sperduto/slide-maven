@@ -21,11 +21,13 @@ build your project
 7. `deploy` - rilascio nell'ambiente di esecuzione
 ---
 
-# archetipo
-modello progetto, struttura cartelle, regola il package/deploy
+# modello progetto
+## archetipo
+struttura cartelle, regola il package/deploy
 ---
 
-# il prodotto: artefatto
+# il prodotto dell'elaborazione 
+## l'artefatto
 - ID gruppo
 - ID artefatto
 - N. versione
