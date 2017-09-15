@@ -2,16 +2,13 @@
 ![Maven](img/maven-logo.png)
 
 build your project
-
 ---
 
 # Cos'è?
 
 - building tool
-- dependancy management
-- project management 
-
-
+- dependancy management tool
+- project management tool
 ---
 
 # Lifecycle
@@ -22,8 +19,13 @@ build your project
 5. `verify` - verifica pacchetto e test integrazione
 6. `install` - istallazione del pacchetto nel repository locale
 7. `deploy` - rilascio nell'ambiente di esecuzione
-
 ---
 
-# prova
+# archetipo
+modello progetto, struttura cartelle, regola il package/deploy
 ---
+
+# il prodotto: artefatto
+- ID gruppo
+- ID artefatto
+- N. versione
